@@ -2,7 +2,7 @@
 EC 601-Literature Review
 
 
-Uploaded file contains an analysis of the following 2 files for adavncements in robotics in the healthcare field
+Uploaded file contains an analysis of the following 2 articles for adavncements in robotics in the healthcare field
 
 
 # Article 1 link
